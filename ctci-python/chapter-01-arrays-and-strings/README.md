@@ -6,3 +6,4 @@
  - [Problem 04 - Palindrome Permutation](palindrome_permutation.py)
  - [Problem 05 - One Away](one_away.py)
  - [Problem 06 - String Compression](string_compression.py)
+ - [Problem 07 - Rotate Matrix](rotate_matrix.py)
